@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.exe
+*.out
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temp files
+*.log
